@@ -22,7 +22,7 @@ export const Content = styled.div`
     gap: 4px;
 
     h1 {
-      color: #fff; /* preto como você pediu */
+      color: #fff;
       font-size: 32px;
     }
     h2{
@@ -31,6 +31,7 @@ export const Content = styled.div`
         font-size: 16px;
         opacity: 0.9;
         margin-top: 6px;
+
     }
 
   }

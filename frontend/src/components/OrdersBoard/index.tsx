@@ -72,7 +72,6 @@ export function OrdersBoard({
         onChangeOrderStatus={handleChangeOrderStatus}
       />
 
-      {/* Aqui está o header com o ícone e título */}
       <header style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '16px' }}>
         <span style={{ fontSize: '20px' }}>{icon}</span>
         <strong>{title}</strong>
